@@ -1,0 +1,11 @@
+First, i would like to apologize in advance for whoever has to grade this and go through over three thousand lines of code.  
+In my attempts of trying to make things work I broke up every bit of requested information and ran it to make sure that nothing was amiss.  
+I was not until after I loaded the assignment to Github that I noticed that my assignment is very, long. But if my math teachers taught me anything it was to show my work. (And boy I did!)
+
+Three visable trends based on the data:
+
+There was significant gap between the age demographics in regards to the purchase analysis.
+By first impressions the information obtained looked to be standard with the demographic of 20-24 year olds, taking the lead with 15-19 year olds behind.
+I was not expecting for the 20-24 bracket to have such a commanding lead over all the other age groups, as the more than double the amount that is aquired be 15-19 year olds.
+
+Males play more video games than females(this does not seem that much of a shocker to me).  It is also probably due to this factor that males spend more money on video games than females.
